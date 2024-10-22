@@ -1,0 +1,12 @@
+botcity-framework-core>=1.2.1,<2.0
+botcity-maestro-sdk>=0.3.3,<1.0
+botcity-utils>=0.1.2
+
+
+botcity-crawler-plugin
+
+pandas
+
+selenium
+
+pyautogui
